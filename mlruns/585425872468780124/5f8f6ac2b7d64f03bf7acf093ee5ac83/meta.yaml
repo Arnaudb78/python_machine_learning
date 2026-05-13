@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/arnaudb./Documents/digital_campus/m2tl/python_machine_learning/mlruns/585425872468780124/5f8f6ac2b7d64f03bf7acf093ee5ac83/artifacts
+end_time: 1778658933990
+entry_point_name: ''
+experiment_id: '585425872468780124'
+lifecycle_stage: active
+run_id: 5f8f6ac2b7d64f03bf7acf093ee5ac83
+run_name: FINAL_best_model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778658930914
+status: 3
+tags: []
+user_id: arnaudb.

@@ -1,0 +1,10 @@
+artifact_location: file:///Users/arnaudb./Documents/digital_campus/m2tl/python_machine_learning/mlruns/585425872468780124/models/m-25d7f849e34a4a6ea5a0b946f762862e/artifacts
+creation_timestamp: 1778658930923
+experiment_id: '585425872468780124'
+last_updated_timestamp: 1778658933988
+model_id: m-25d7f849e34a4a6ea5a0b946f762862e
+model_type: null
+name: model
+source_run_id: 5f8f6ac2b7d64f03bf7acf093ee5ac83
+status: 2
+status_message: null

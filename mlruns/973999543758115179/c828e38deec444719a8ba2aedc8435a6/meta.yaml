@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/arnaudb./Documents/digital_campus/m2tl/python_machine_learning/mlruns/973999543758115179/c828e38deec444719a8ba2aedc8435a6/artifacts
+end_time: 1778658735469
+entry_point_name: ''
+experiment_id: '973999543758115179'
+lifecycle_stage: active
+run_id: c828e38deec444719a8ba2aedc8435a6
+run_name: GradientBoosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778658735455
+status: 3
+tags: []
+user_id: arnaudb.

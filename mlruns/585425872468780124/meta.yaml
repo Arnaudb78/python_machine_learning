@@ -1,0 +1,8 @@
+artifact_location: file:///Users/arnaudb./Documents/digital_campus/m2tl/python_machine_learning/mlruns/585425872468780124
+creation_time: 1778658823535
+experiment_id: '585425872468780124'
+last_update_time: 1778658823535
+lifecycle_stage: active
+name: churn-tuning
+trace_location: null
+workspace: default

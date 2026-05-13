@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/arnaudb./Documents/digital_campus/m2tl/python_machine_learning/mlruns/585425872468780124/634f9010a3ff4bc2b7243f8d88b6f28a/artifacts
+end_time: 1778658826147
+entry_point_name: ''
+experiment_id: '585425872468780124'
+lifecycle_stage: active
+run_id: 634f9010a3ff4bc2b7243f8d88b6f28a
+run_name: logreg_tuned
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778658826140
+status: 3
+tags: []
+user_id: arnaudb.

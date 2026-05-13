@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/arnaudb./Documents/digital_campus/m2tl/python_machine_learning/mlruns/973999543758115179/28c6b2d20e3845b2965a19a289aa4641/artifacts
+end_time: 1778658730908
+entry_point_name: ''
+experiment_id: '973999543758115179'
+lifecycle_stage: active
+run_id: 28c6b2d20e3845b2965a19a289aa4641
+run_name: DecisionTree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778658730895
+status: 3
+tags: []
+user_id: arnaudb.

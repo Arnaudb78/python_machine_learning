@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/arnaudb./Documents/digital_campus/m2tl/python_machine_learning/mlruns/585425872468780124/0015b559f8694df1844f0f0368f13fb3/artifacts
+end_time: 1778658927450
+entry_point_name: ''
+experiment_id: '585425872468780124'
+lifecycle_stage: active
+run_id: 0015b559f8694df1844f0f0368f13fb3
+run_name: hgbt_tuned
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778658927443
+status: 3
+tags: []
+user_id: arnaudb.
