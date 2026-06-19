@@ -1,0 +1,39 @@
+{
+  "model_name": "HGBT_tuned",
+  "threshold": 0.15000000000000002,
+  "trained_at": "2026-05-10T14:18:09",
+  "sklearn_version": "1.8.0",
+  "metrics_test": {
+    "f1": 0.3798977853492334,
+    "precision": 0.2357293868921776,
+    "recall": 0.9780701754385965,
+    "roc_auc": 0.7546557890504306,
+    "pr_auc": 0.4161612682913595,
+    "business_gain_eur": 8650.0
+  },
+  "feature_columns": [
+    "gender",
+    "SeniorCitizen",
+    "Partner",
+    "Dependents",
+    "tenure",
+    "PhoneService",
+    "MultipleLines",
+    "InternetService",
+    "OnlineSecurity",
+    "OnlineBackup",
+    "DeviceProtection",
+    "TechSupport",
+    "StreamingTV",
+    "StreamingMovies",
+    "Contract",
+    "PaperlessBilling",
+    "PaymentMethod",
+    "MonthlyCharges",
+    "TotalCharges",
+    "tenure_group",
+    "services_count",
+    "has_internet",
+    "avg_charge_per_month"
+  ]
+}
